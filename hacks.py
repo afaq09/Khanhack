@@ -60,7 +60,7 @@ logo = """
 \033[1;96m╱╰╯╰╯╰━━┻━┻━━┻━━┻┻┻┻━━╯
 
   \033[1;96m::♧♧♧♧♧♧♧♧♧♧\033[1;91mWhatsapp    \033[1;96m....0 3 1 0 0 2 8 5 7 9 0 ..... \033[1;96m♧♧♧♧♧♧♧♧♧♧▒▒▒▒▒▒▒::::        
-  \033[1;91m:》》》\033[1;93mAger apki pass is ka account nahi whatsapp pe msg kary....\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
+  \033[1;91m:》》》\033[1;93mDon't use it for Illegal activities ....\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
 \033[1;95m♡╭───•◈•────╮♡\033[1;96m-▒▒▒Afaq Ahmad▒▒▒▒▒-\033[1;95m♡╭───•,◈•────╮♡
 \033[1;96m╔╗─╔╗────────╔╗───────╔╗
 \033[1;96m║║─║║────────║║───────║║
@@ -98,10 +98,11 @@ print  """
 
    \033[1;92m███████▒▒Welcome To Afaq Ahmad CREATIONS▒▒████████
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mAfaq Ahmad\033[1;95m♡╭──────────•◈•──────────╮♡
-\033[1;94mAuthor\033[1;91m: \033[1;91mAcreations
-\033[1;94mAfaq Ahmad\033[1;91m: \033[1;91▒▓██████████████]99.9
-\033[1;94mFacebook\033[1;91m: \033[1;91mAcreations
+\033[1;94mAuthor\033[1;91m: \033[1;91mKhan Develovper
+\033[1;94mName\033[1;91m: \033[1;91▒▓███Afaq Ahmad███]99.9
+\033[1;94mYoutube\033[1;91m: \033[1;91mAfaq Tech 
 \033[1;94mWhatsapp\033[1;91m: \033[1;91m 0 3 1 0 2 8 5 7 9 0
+\033[1;96mAger apki pass is ka account nahi hai thu humein whatsapp pe msg kary...
 \033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mAfaq Ahmad\033[1;95m♡╰──────────•◈•──────────╯♡"""
 jalan('              \033[1;96m....................Afaq Ahmad.....................:')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈   ")
@@ -109,7 +110,7 @@ jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕╲┊┊╱▏▏┈┈┈┈┈
 jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕▂╱╲▂▏▏┈┈┈┈┈┈┈   ')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈┈┈ ")
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
-print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin Afaq Ahmad\033[1;95m♡╰──────────•◈•──────────╯♡"
+print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin Afaq Ahmad cloning tool\033[1;95m♡╰──────────•◈•──────────╯♡"
 
 CorrectUsername = "Afaq0313khan"
 CorrectPassword = "Afaqkhan0313"
@@ -141,6 +142,7 @@ def login():
 		jalan(' \033[1;92mWarning: \033[1;97mDo Not Use Your Personal Account' )
 		jalan(' \033[1;92m   Note: \033[1;97mUse a New Account To Login' )
 		jalan(' \033[1;92m   Note: \033[1;97mJo Accounts Mel Jai usy 7 din bad log in karna....' )
+		jalan(' \033[1;92m   Note: \033[1;97mIska Ghalat Istemal Na kary iske wajah se apko jail be ho sakte hai.....hum apki kisi qisam ke nuqsan ke zimdar nahi hogi....shukriya....' )
 		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mAfaq Ahmad\033[1;95m♡──────────•◈•──────────♡"
 		print('	   \033[1;94m♡\x1b[1;91m》》》》》》LOGIN WITH FACEBOOK《《《《《《\x1b[1;94m♡' )
 		print('	' )
