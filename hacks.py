@@ -101,7 +101,7 @@ print  """
 \033[1;94mAuthor\033[1;91m: \033[1;91mKhan Develovper
 \033[1;94mName\033[1;91m: \033[1;91▒▓███Afaq Ahmad███]99.9
 \033[1;94mYoutube\033[1;91m: \033[1;91mAfaq Tech 
-\033[1;94mWhatsapp\033[1;91m: \033[1;91m 0 3 1 0 2 8 5 7 9 0
+\033[1;94mWhatsapp\033[1;91m: \033[1;91m 0 3 1 0 0 2 8 5 7 9 0
 \033[1;96mAger apki pass is ka account nahi hai thu humein whatsapp pe msg kary...
 \033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mAfaq Ahmad\033[1;95m♡╰──────────•◈•──────────╯♡"""
 jalan('              \033[1;96m....................Afaq Ahmad.....................:')
